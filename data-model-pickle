@@ -1,0 +1,16 @@
+************************************************************************************
+************************************************************************************
+https://drive.google.com/drive/folders/1_e-JsBSA6eiFSjU4f8nBAKeds7QtRLXi?usp=sharing
+************************************************************************************
+************************************************************************************
+In the folder of drive they are the data, the pickle with the data alreaday 
+preprocessed, the pickle with model of classification and the weights of the neural 
+network model in the hdf5.
+
+------ Files description --------
+train.csv - Original data of the toxic comments
+toxic.pickle - the preprocessed data to be loaded and used.
+classify.pickle - The model of classification trained with the classification model
+CoronaTweets.csv - Tweets collected from tweeter about coronavirus
+weights_base.best.hdf5 - The weights of the NN model trained with the data of the
+classification model
